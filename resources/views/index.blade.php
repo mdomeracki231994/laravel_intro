@@ -1,6 +1,11 @@
 @extends('app')
 @section('content')
 <!-- Section-->
+<div class="list-group">
+    <a href="" class="list-group-item">Category 1</a>
+    <a href="" class="list-group-item">Category 2</a>
+    <a href="" class="list-group-item">Category 3</a>
+</div>
 <section class="py-5">
     <div class="container px-4 px-lg-5 mt-5">
         <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
